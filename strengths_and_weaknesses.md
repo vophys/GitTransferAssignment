@@ -3,3 +3,4 @@
 2. History works as backup. You can go back to a version where your code isn't broken.
 # Weaknesses
 1. Can be complicated
+2. All versions need file space (also deleted files)
